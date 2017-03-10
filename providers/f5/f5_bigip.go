@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/rancher/external-lb/model"
-	"github.com/rancher/external-lb/providers"
+	"github.com/redapt/external-lb/model"
+	"github.com/redapt/external-lb/providers"
 	"github.com/scottdware/go-bigip"
 )
 

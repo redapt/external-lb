@@ -7,9 +7,9 @@ import (
 
 	"github.com/Sirupsen/logrus"
 	"github.com/aws/aws-sdk-go/service/elb"
-	"github.com/rancher/external-lb/model"
-	"github.com/rancher/external-lb/providers"
-	"github.com/rancher/external-lb/providers/elbv1/elbv1svc"
+	"github.com/redapt/external-lb/model"
+	"github.com/redapt/external-lb/providers"
+	"github.com/redapt/external-lb/providers/elbv1/elbv1svc"
 )
 
 const (

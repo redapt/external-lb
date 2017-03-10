@@ -3,7 +3,7 @@ package providers
 import (
 	"fmt"
 	"github.com/Sirupsen/logrus"
-	"github.com/rancher/external-lb/model"
+	"github.com/redapt/external-lb/model"
 )
 
 type Provider interface {
